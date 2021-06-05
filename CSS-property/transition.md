@@ -1,4 +1,5 @@
 `transition`のpropertyではanimationの時間を設定できますが、他にも**動き方**も設定できる。
+（タイミングファンクションという）
 ```
 transition: transform 0.3s ease;
 ```
