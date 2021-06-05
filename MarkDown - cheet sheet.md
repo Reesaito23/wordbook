@@ -67,7 +67,7 @@
   ```
   Apple have `two` colors.
   ```
-  Apple have `two` colors.
+  Apple have `two` colors.  
   [もくじに戻る](#もくじ)
   
 - ## Quotation_Block  
@@ -84,8 +84,8 @@
   ```
   Apple is my close friend.
   Orange is not my close friend.
-  ```　　
- [もくじに戻る](#もくじ)
+  ```
+ 　[もくじに戻る](#もくじ)
   
 - ## Link_out  
   リンクもとのサイトを`[]`で囲み、`()`のなかにリンクのURLを書く。(command + k)
@@ -103,7 +103,7 @@
   [表示したい名前](#タイトル名(＊小文字開始))
   ```
   [表示したい名前](#タイトル名)
-  #タイトル名
+  #タイトル名  
   [もくじに戻る](#もくじ)
   
 - ## List  
@@ -151,7 +151,7 @@
     - one-one
     - one-two
   - two
-  - three
+  - three  
   [もくじに戻る](#もくじ)
   
 - ## Check-box
@@ -171,7 +171,7 @@
   - [ ] (brother's)apple
   ```
   - [x] \(sister's)apple
-  - [ ] (brother's)apple
+  - [ ] (brother's)apple  
   [もくじに戻る](#もくじ)
   
 - ## Mention
@@ -182,7 +182,7 @@
   @team-name
   ```
   @Rieru-Saito-poo
-  @team-name
+  @team-name  
   [もくじに戻る](#もくじ)
   
 - ## EMOJI  
