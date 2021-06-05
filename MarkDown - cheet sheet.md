@@ -1,8 +1,8 @@
 # Markdownの基礎
-  このページは:point_down:のまとめです。
+  このページは:point_down:のまとめです。  
   [Github docs](https://docs.github.com/ja/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 <!-- START doctoc -->
-###もくじ  
+### もくじ  
 1. [Heading](#heading)
 2. [Decorating_Text](#decorating_text)
 3. [Quotation_text](#quotation_text)
