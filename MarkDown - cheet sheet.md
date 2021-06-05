@@ -60,6 +60,7 @@
   ```
   This is a quotation from text books.
   > Apple is red color.  
+  
   [もくじに戻る](#もくじ)
   
 - ## Quotation_code  
@@ -85,7 +86,8 @@
   Apple is my close friend.
   Orange is not my close friend.
   ```
- 　[もくじに戻る](#もくじ)
+  
+  [もくじに戻る](#もくじ)
   
 - ## Link_out  
   リンクもとのサイトを`[]`で囲み、`()`のなかにリンクのURLを書く。(command + k)
@@ -93,8 +95,10 @@
   [GitHub Pages](https://github.com/Rieru-Saito-poo/til/edit/main/2021-06/0604.md)
   [gougle](https://docs.github.com/ja/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
   ```
-  [GitHub Pages](https://github.com/Rieru-Saito-poo/til/edit/main/2021-06/0604.md)　　
+  [GitHub Pages](https://github.com/Rieru-Saito-poo/til/edit/main/2021-06/0604.md)  
+  
   [gougle](https://docs.github.com/ja/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)　　
+  
   [もくじに戻る](#もくじ)
   
 - ## Link_in　　
