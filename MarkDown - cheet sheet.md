@@ -177,6 +177,7 @@
   ```
   - [x] \(sister's)apple
   - [ ] (brother's)apple  
+  
   [もくじに戻る](#もくじ)
   
 - ## Mention
@@ -186,7 +187,7 @@
   @Rieru-Saito-poo
   @team-name
   ```
-  @Rieru-Saito-poo
+  @Rieru-Saito-poo  
   @team-name  
   [もくじに戻る](#もくじ)
   
