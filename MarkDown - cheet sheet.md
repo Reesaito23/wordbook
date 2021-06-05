@@ -34,7 +34,8 @@
   #### Title
   ##### Title
   ###### Title  
-  ___
+  [もくじに戻る](#もくじ)
+  
 - ## Decorating_Text  
   テキストに装飾をしたいときの書き方:point_down:
   ```
@@ -49,7 +50,8 @@
   ~~Strike-out line~~  
   **Bold and _important(italic)_ letters**  
   ***Bold and Italic letters***  
-  ___
+  [もくじに戻る](#もくじ)
+  
 - ## Quotation_text  
   引用文の前には`>`を記入する。
   ```
@@ -58,14 +60,16 @@
   ```
   This is a quotation from text books.
   > Apple is red color.  
-  ___
+  [もくじに戻る](#もくじ)
+  
 - ## Quotation_code  
   `　バッククォート（｀）　`で挟んだ中の部分だけがcode形式になる。
   ```
   Apple have `two` colors.
   ```
   Apple have `two` colors.
-  ___
+  [もくじに戻る](#もくじ)
+  
 - ## Quotation_Block  
   `｀｀｀`で挟むことで挟まれた中のBlock部分はBlockごとcode形式になる
   ```
@@ -80,16 +84,19 @@
   ```
   Apple is my close friend.
   Orange is not my close friend.
-  ```
+  ```　　
+ [もくじに戻る](#もくじ)
+  
 - ## Link_out  
   リンクもとのサイトを`[]`で囲み、`()`のなかにリンクのURLを書く。(command + k)
   ```
   [GitHub Pages](https://github.com/Rieru-Saito-poo/til/edit/main/2021-06/0604.md)
   [gougle](https://docs.github.com/ja/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
   ```
-  [GitHub Pages](https://github.com/Rieru-Saito-poo/til/edit/main/2021-06/0604.md)
-  [gougle](https://docs.github.com/ja/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-  ___
+  [GitHub Pages](https://github.com/Rieru-Saito-poo/til/edit/main/2021-06/0604.md)　　
+  [gougle](https://docs.github.com/ja/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)　　
+  [もくじに戻る](#もくじ)
+  
 - ## Link_in　　
   同じページの中での移動→セクション間での移動
   ```
@@ -97,7 +104,8 @@
   ```
   [表示したい名前](#タイトル名)
   #タイトル名
-  ___
+  [もくじに戻る](#もくじ)
+  
 - ## List  
   行の前に`-`か`*`お書くことで順序が関係なしのリストが作られる。
   ```
@@ -108,7 +116,7 @@
   - one
   - two
   - three
-  ---
+  
   番号を書くことで順序が決まる。　　
   ```
   1. one
@@ -118,7 +126,7 @@
   1. one
   2. two
   3. three
-  ---
+  
   段落を下げることで入れ子のリストになる。　　
   ```
   1. one
@@ -144,7 +152,8 @@
     - one-two
   - two
   - three
-  ___
+  [もくじに戻る](#もくじ)
+  
 - ## Check-box
   check-boxを書くには`[ ]`を書くと空白のチェックボックスになり、中に`x`を書くことでcheck入りのボックスになる。
   ```
@@ -155,7 +164,7 @@
   - [x] apple
   - [ ] orange
   - [ ] green
-  ---
+  
   もし内容の先頭が`（）`の場合は`()`の前に`\`を書かなければならない。
   ```
   - [x] \(sister's)apple
@@ -163,7 +172,8 @@
   ```
   - [x] \(sister's)apple
   - [ ] (brother's)apple
-  ___
+  [もくじに戻る](#もくじ)
+  
 - ## Mention
   `@`の後にuser_nameを書くことでメンションができる。　　
   後ろをteam-nameにするとチーム内の全ての人に通知がいく。
@@ -173,13 +183,15 @@
   ```
   @Rieru-Saito-poo
   @team-name
-  ___
+  [もくじに戻る](#もくじ)
+  
 - ## EMOJI  
   `:EMOJICODE:`を入力して、書き込みに絵文字を追加できます。
   詳しくは[Emoji_cheetsheet](docs/MarkDown_cheetsheet)を参照
   ```
   :+1:today's dinner so good.
   ```
-  :+1:today's dinner so good.
-  ___
+  :+1:today's dinner so good.  
+  [もくじに戻る](#もくじ)
+  
   
