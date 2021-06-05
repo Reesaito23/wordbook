@@ -134,8 +134,8 @@
   段落を下げることで入れ子のリストになる。　　
   ```
   1. one
-    1. one-one
-    2. one-two
+     1. one-one
+     2. one-two
   2. two
   3. three
     
@@ -146,8 +146,8 @@
   - three
   ```
   1. one
-    1. one-one
-    2. one-two
+     1. one-one
+     2. one-two
   2. two
   3. three
     
@@ -156,6 +156,7 @@
     - one-two
   - two
   - three  
+  
   [もくじに戻る](#もくじ)
   
 - ## Check-box
